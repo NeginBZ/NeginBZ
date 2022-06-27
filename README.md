@@ -2,7 +2,7 @@
 ##
 
 - 🔭 I’m currently looking for a software developer position
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning React
 - 💬 Reach out to me if you have any questions
 - 📫 How to reach me: [Linkedin-@Negin](https://www.linkedin.com/in/negin-beheshti-zavareh-69500187/)
 ##
