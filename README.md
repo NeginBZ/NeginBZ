@@ -1,7 +1,7 @@
 ### Hi there, I'm Negin Beheshti👋
 ##
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working as Mendix developer
 - 💬 Reach out to me if you have any questions
 - 📫 How to reach me: [Linkedin-@Negin](https://www.linkedin.com/in/negin-beheshti-zavareh-69500187/)
 ##
